@@ -27,8 +27,6 @@ Lista de problemas:
 <p> 2670	Máquina de Café
 <p> 2312	Quadro De Medalhas
 <p> 2396	Corrida
-<p> 3052	Chuva
-<p> 3062	Coleção de Upas
 <p> 2328	Chocolate
 <p> 2782	Escadinha
 <p> 2321	Detectando Colisões (WRONG ANSWER - 5%)
