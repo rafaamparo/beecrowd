@@ -1,4 +1,5 @@
 #problema 2247 - Cofinhos da Vó Vitória
+
 depositos = int(input())
 teste = 0
 while depositos != 0:
