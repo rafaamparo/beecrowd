@@ -1,4 +1,5 @@
 #2321 - Detectando Colisões
+# ! WRONG ANSWER (5%)! 🤷
 
 rect1 = list(map(int, input().split()))
 rect2 = list(map(int, input().split()))
