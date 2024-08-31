@@ -1,5 +1,5 @@
 # beecrowd
-Problemas que resolvi, em Python, na plataforma beecrowd durante meu 1° semestre de CC.
+Problemas que resolvi, em Python, na plataforma beecrowd durante meu 1° semestre de Ciência da Computação na UFF.
 
 
 Lista de problemas:
